@@ -1,1 +1,2 @@
 Hello , Welcome to Internet Technologies  lab
+I have edited the sapmle.txt file
